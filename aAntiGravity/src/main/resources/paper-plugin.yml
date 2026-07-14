@@ -1,0 +1,14 @@
+name: aAntiGravity
+version: '${project.version}'
+main: herr0w.aAntiGravity.AAntiGravity
+api-version: '1.21.11'
+description: Yerçekimi olan blokların düşmesini config ile engeller.
+author: herr0w
+load: POSTWORLD
+permissions:
+  aantigravity.reload:
+    description: aAntiGravity config yenileme komutunu kullanma yetkisi.
+    default: op
+  aantigravity.gui:
+    description: aAntiGravity blok ayarları menüsünü açma yetkisi.
+    default: op

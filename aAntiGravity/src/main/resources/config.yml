@@ -1,0 +1,37 @@
+enabled: true
+
+blocks:
+  SAND: true
+  RED_SAND: true
+  GRAVEL: true
+  ANVIL: true
+  CHIPPED_ANVIL: true
+  DAMAGED_ANVIL: true
+  DRAGON_EGG: true
+  WHITE_CONCRETE_POWDER: true
+  ORANGE_CONCRETE_POWDER: true
+  MAGENTA_CONCRETE_POWDER: true
+  LIGHT_BLUE_CONCRETE_POWDER: true
+  YELLOW_CONCRETE_POWDER: true
+  LIME_CONCRETE_POWDER: true
+  PINK_CONCRETE_POWDER: true
+  GRAY_CONCRETE_POWDER: true
+  LIGHT_GRAY_CONCRETE_POWDER: true
+  CYAN_CONCRETE_POWDER: true
+  PURPLE_CONCRETE_POWDER: true
+  BLUE_CONCRETE_POWDER: true
+  BROWN_CONCRETE_POWDER: true
+  GREEN_CONCRETE_POWDER: true
+  RED_CONCRETE_POWDER: true
+  BLACK_CONCRETE_POWDER: true
+  POINTED_DRIPSTONE: true
+  SUSPICIOUS_SAND: true
+  SUSPICIOUS_GRAVEL: true
+
+messages:
+  reload: "&b&laAntiGravity &8» &fConfig başarıyla yenilendi."
+  no-permission: "&b&laAntiGravity &8» &cBu komutu kullanmak için yetkin yok."
+  gui-open: "&b&laAntiGravity &8» &fBlok ayarları menüsü açıldı."
+  block-status: "&b&laAntiGravity &8» &f%block% &7durumu: %status%"
+  block-enabled: "&b&laAntiGravity &8» &a%block% &fartık düşmeyecek."
+  block-disabled: "&b&laAntiGravity &8» &c%block% &fartık normal şekilde düşecek."
